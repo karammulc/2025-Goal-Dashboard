@@ -1,8 +1,10 @@
 # 2025 Goal Dashboard - 5K training
 <img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="25%" alt="Goal Dashboard Logo">
-🏃‍♀️**Status: Project in Progress** 🏃‍♀️
 
-After conquering my first cartwheel in 2024, I was ready for a new challenge. Enter 2025, when my best friend Camila proposed an exciting goal - completing a 5K together, along with a few other personal milestones.
+# 🏃‍♀️**Project still in Progress** 🏃‍♀️
+__________________________________________________________________________
+
+After conquering my first cartwheel in 2024, I was ready for a new challenge. Enter 2025, when my  friend Camila proposed an exciting goal - completing a 5K together, along with a few other personal milestones.
 
 ## The Project
 
@@ -31,8 +33,11 @@ One of the most interesting aspects of this project was working with dynamic dat
 Note: This documentation covers one set of formulas. An identical set exists with modified column references for tracking the other participant's progress.
 ## Dashboard Features
 
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20-%201.png" width="70%" alt="Goal Dashboard Top">
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dash%20-%202.png" width="70%" alt="Goal Dashboard Bottom">
+__________________________________________________________________________
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20-%201.png" width="80%" alt="Goal Dashboard Top">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dash%20-%202.png" width="80%" alt="Goal Dashboard Bottom">
+*Latest Screenshot 1/7/25*
+
 
 ### Training Progress Tracking
 - Current training week indicator
@@ -42,7 +47,7 @@ Note: This documentation covers one set of formulas. An identical set exists wit
 - Total training progress
 
 ### Visual Analytics
-- Dual-line progress chart (Kara & Camila)
+- Dual line progress chart (Kara & Camila)
 - Day of week mileage distribution
 - Resolution completion counter
 

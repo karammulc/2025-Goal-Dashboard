@@ -4,13 +4,13 @@
 # 🏃‍♀️**Project still in Progress** 🏃‍♀️
 __________________________________________________________________________
 
-After conquering my first cartwheel in 2024, I was ready for a new challenge. Enter 2025, when my  friend Camila proposed an exciting goal - completing a 5K together, along with a few other personal milestones.
+After conquering my first cartwheel in 2024, I was ready for a new challenge. Enter 2025, when my  friend Camila proposed an exciting goal - completing a 5K together and a few other personal milestones.
 
 ## The Project
 
-This challenge inspired me to create a comprehensive 5K Resolution tracking dashboard. While I typically rely on calculated fields, I expanded my practiced other elements of my toolkit by exploring new Google Sheets formulas. This approach allows for easier updates and centralized data management.
+This challenge inspired me to create a comprehensive 5K Resolution tracking dashboard. While I typically rely on calculated fields, I expanded my use of other tools in my toolkit by exploring new Google Sheets formulas. This approach allows for easier updates and centralized data management.
 
-The dashboard is designed for Camila and I - for both encouragement and competition. 
+The dashboard is designed for Camila and me - for both encouragement and competition. 
 
 One of the most interesting aspects of this project was working with dynamic data that changed based on the current date and training week requirements. I developed two parallel sets of formulas - one for Camila and one for Kara - to track our individual progress.
 

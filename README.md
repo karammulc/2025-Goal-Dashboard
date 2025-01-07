@@ -1,5 +1,6 @@
 # 2025 Goal Dashboard - 5K training
 <img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="25%" alt="Goal Dashboard Logo">
+🏃‍♀️**Status: Project in Progress** 🏃‍♀️
 
 After conquering my first cartwheel in 2024, I was ready for a new challenge. Enter 2025, when my best friend Camila proposed an exciting goal - completing a 5K together, along with a few other personal milestones.
 
@@ -8,8 +9,6 @@ After conquering my first cartwheel in 2024, I was ready for a new challenge. En
 This challenge inspired me to create a comprehensive 5K Resolution tracking dashboard. While I typically rely on calculated fields, I expanded my practiced other elements of my toolkit by exploring new Google Sheets formulas. This approach allows for easier updates and centralized data management.
 
 The dashboard is designed for Camila and I - for both encouragement and competition. 
-
-# Dynamic Date-Based Formulas in Goal Dashboard
 
 One of the most interesting aspects of this project was working with dynamic data that changed based on the current date and training week requirements. I developed two parallel sets of formulas - one for Camila and one for Kara - to track our individual progress.
 
@@ -58,8 +57,8 @@ The system includes dedicated sheets for:
 - Weekly distance summaries
 - Book progress tracking
 
-🏃‍♀️**Status: Project in Progress** 🏃‍♀️
 
+__________________________________________________________________________
 Next steps:
 
 - Count of Successful Weeks - Formula complete, add to viz

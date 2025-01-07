@@ -36,8 +36,8 @@ Note: This documentation covers one set of formulas. An identical set exists wit
 ## Dashboard Features
 
 __________________________________________________________________________
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20-%201.png" width="80%" alt="Goal Dashboard Top">
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dash%20-%202.png" width="80%" alt="Goal Dashboard Bottom">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal-Dashboard-Top.png" width="80%" alt="Goal Dashboard Top">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal-Dashboard-Bottom.png" width="80%" alt="Goal Dashboard Bottom">
 *Latest Screenshot 1/7/25*
 
 

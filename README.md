@@ -8,7 +8,7 @@ This challenge inspired me to create a comprehensive tracking dashboard. While I
 
 The dashboard is designed for both Camila and me, fostering a spirit of friendly competition and mutual encouragement as we progress toward our goals.
 
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="70%" alt="Goal Dashboard Logo">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="25%" alt="Goal Dashboard Logo">
 
 ## Dashboard Features
 

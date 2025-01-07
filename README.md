@@ -14,7 +14,7 @@ The dashboard is designed for Camila and me - for both encouragement and competi
 
 One of the most interesting aspects of this project was working with dynamic data that changed based on the current date and training week requirements. I developed two parallel sets of formulas - one for Camila and one for Kara - to track our individual progress.
 
-I also had a bit of fun designing the logo. 
+I also had a bit of fun with design.
 
 ## Core Dynamic Formulas
 

@@ -1,4 +1,5 @@
-# 2025 Goal Dashboard: A Journey of Friendship & Fitness
+# 2025 Goal Dashboard - 5K training
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="25%" alt="Goal Dashboard Logo">
 
 After conquering my first cartwheel in 2024, I was ready for a new challenge. Enter 2025, when my best friend Camila proposed an exciting goal - completing a 5K together, along with a few other personal milestones.
 
@@ -8,7 +9,7 @@ This challenge inspired me to create a comprehensive tracking dashboard. While I
 
 The dashboard is designed for both Camila and me, fostering a spirit of friendly competition and mutual encouragement as we progress toward our goals.
 
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="25%" alt="Goal Dashboard Logo">
+
 
 ## Dashboard Features
 

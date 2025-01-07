@@ -5,10 +5,9 @@ After conquering my first cartwheel in 2024, I was ready for a new challenge. En
 
 ## The Project
 
-This challenge inspired me to create a comprehensive tracking dashboard. While I typically rely on calculated fields, I decided to expand my technical toolkit by exploring new Google Sheets formulas. This approach allows for easier updates and centralized data management.
+This challenge inspired me to create a comprehensive 5K Resolution tracking dashboard. While I typically rely on calculated fields, I expanded my practiced other elements of my toolkit by exploring new Google Sheets formulas. This approach allows for easier updates and centralized data management.
 
-The dashboard is designed for both Camila and me, fostering a spirit of friendly competition and mutual encouragement as we progress toward our goals.
-
+The dashboard is designed for Camila and I - for both encouragement and competition. 
 
 
 ## Dashboard Features
@@ -37,7 +36,7 @@ The system includes dedicated sheets for:
 - Weekly distance summaries
 - Book progress tracking
 
-**Status: Project in Progress** 
+🏃‍♀️**Status: Project in Progress** 🏃‍♀️
 
 Next steps:
 - Weekly end date display

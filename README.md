@@ -1,7 +1,9 @@
-# 2025 Goal Dashboard
-![Goal Dashboard Logo](https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png)
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="70%" alt="Goal Dashboard Logo">
 
+### Project in Progress 
 
-![Goal Dashboard Top](https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20-%201.png)
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20-%201.png" width="70%" alt="Goal Dashboard Top">
 
-![Goal Dashboard Bottom](https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dash%20-%202.png)
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dash%20-%202.png" width="70%" alt="Goal Dashboard Bottom">
+
+<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Daily%20Log.png" width="70%" alt="Daily Log">

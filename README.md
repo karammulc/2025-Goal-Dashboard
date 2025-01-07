@@ -18,7 +18,6 @@ The dashboard is designed for both Camila and me, fostering a spirit of friendly
 
 ### Training Progress Tracking
 - Current training week indicator
-- Weekly end date display
 - Remaining days counter
 - Weekly mileage tracking
 - Goal completion percentage
@@ -26,10 +25,8 @@ The dashboard is designed for both Camila and me, fostering a spirit of friendly
 
 ### Visual Analytics
 - Dual-line progress chart (Kara & Camila)
-- Day-of-week mileage distribution
+- Day of week mileage distribution
 - Resolution completion counter
-- Customizable timespan views
-- Dynamic milestone notifications
 
 ### Data Management
 <img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Daily%20Log.png" width="70%" alt="Daily Log">
@@ -40,8 +37,12 @@ The system includes dedicated sheets for:
 - Weekly distance summaries
 - Book progress tracking
 
-**Status: Project in Progress** 🏃‍♀️📊
+**Status: Project in Progress** 
 
----
+Next steps:
+- Weekly end date display
+- Customizable timespan views
+- Dynamic milestone notifications
 
-Would you like me to adjust any section or add more details to better reflect your project?
+
+

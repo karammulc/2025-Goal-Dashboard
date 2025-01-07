@@ -1,4 +1,4 @@
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="50%" alt="Goal Dashboard Logo">
+ <img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="20%" alt="Goal Dashboard Logo">
 
 ### Project in Progress 
 

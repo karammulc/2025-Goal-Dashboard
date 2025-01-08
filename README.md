@@ -36,9 +36,9 @@ Note: This documentation covers one set of formulas. An identical set exists wit
 ## Dashboard Features
 
 __________________________________________________________________________
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal-Dashboard-Top.png" width="80%" alt="Goal Dashboard Top">
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal-Dashboard-Bottom.png" width="80%" alt="Goal Dashboard Bottom">
-*Latest Screenshot 1/7/25*
+<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal%20Dash%20Top%202.png" width="70%" alt="Goal Dashboard Top">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal%20Dash%20Bottom%202.png" width="70%" alt="Goal Dashboard Bottom">
+*Latest Screenshot 1/8/25*
 
 
 ### Training Progress Tracking

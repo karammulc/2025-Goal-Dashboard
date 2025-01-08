@@ -1,7 +1,7 @@
 # 2025 Goal Dashboard - 5K training
 <img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="23%" alt="Goal Dashboard Logo">
 
-# 🏃‍♀️**Project still in Progress** 🏃‍♀️
+### 🏃‍♀️**Project still in Progress** 🏃‍♀️
 __________________________________________________________________________
 
 After conquering my first cartwheel in 2024, I was ready for a new challenge. Enter 2025, when my  friend Camila proposed an exciting goal - completing a 5K together and a few other personal milestones.

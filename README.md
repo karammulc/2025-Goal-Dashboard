@@ -33,11 +33,13 @@ I also had a bit of fun with design.
 - ARRAYFORMULA for efficient calculation of successful weeks
 - All formulas are duplicated and modified for both participants' tracking
 Note: This documentation covers one set of formulas. An identical set exists with modified column references for tracking the other participant's progress.
+
+
+<img src=https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/2025-5K-Goal-Dashboard.png  alt="Daily Log">
+
 ## Dashboard Features
 
 __________________________________________________________________________
-[View 2025 Goal Dashboard](https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/2025-Goal-Dashboard.pdf)
-
 
 ### Training Progress Tracking
 - Current training week indicator

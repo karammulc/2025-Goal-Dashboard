@@ -52,6 +52,7 @@ __________________________________________________________________________
 - Dual line progress chart (Kara & Camila)
 - Day of week mileage distribution
 - Resolution completion counter
+- Weekly end date display
 
 ### Data Management
 <img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Daily-Log.png" width="70%" alt="Daily Log">
@@ -69,7 +70,6 @@ __________________________________________________________________________
 Next steps:
 
 - Count of Successful Weeks - Formula complete, add to viz
-- Weekly end date display - Formula complete, add to viz
 - Customizable timespan views
 - Dynamic milestone notifications
 - % of weeks being successful : change to not include current week

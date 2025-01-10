@@ -54,8 +54,8 @@ __________________________________________________________________________
 - Resolution completion counter
 
 ### Data Management
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Daily%20Log.png" width="70%" alt="Daily Log">
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Weekly%20Summary.png" width="70%" alt="Weekly Summary">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Daily-Log.png" width="70%" alt="Daily Log">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Weekly-Summary.png" width="70%" alt="Weekly Summary">
 <img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Resolutions.png" width="70%" alt="Resolutions">
 
 The system includes dedicated sheets for:

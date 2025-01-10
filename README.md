@@ -36,7 +36,7 @@ Note: This documentation covers one set of formulas. An identical set exists wit
 ## Dashboard Features
 
 __________________________________________________________________________
-[![Dashboard Preview](path/to/image.png)](https://lookerstudio.google.com/embed/reporting/53bd9994-e319-4f20-9380-fd8c6ba16ff7/page/Ws8aE)
+[View 2025 Goal Dashboard](https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/2025-Goal-Dashboard.pdf)
 
 
 ### Training Progress Tracking

@@ -1,5 +1,5 @@
 # 2025 Goal Dashboard - 5K training
-<img src="https://github.com/karammulc/2025-Goal-Dashboard/blob/main/Images/Goal%20Dashboard%20Logo.png" width="23%" alt="Goal Dashboard Logo">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal-Dashboard-Logo.png"  width="50%" >
 
 ### 🏃‍♀️**Project still in Progress** 🏃‍♀️
 __________________________________________________________________________
@@ -36,8 +36,8 @@ Note: This documentation covers one set of formulas. An identical set exists wit
 ## Dashboard Features
 
 __________________________________________________________________________
-<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal%20Dash%20Top%202.png" width="70%" alt="Goal Dashboard Top">
-<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal%20v2.png" width="70%" alt="Goal Dashboard Bottom">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal-Dashboard-P1.png" width="100%" alt="Goal Dashboard Top">
+<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal-Dashboard-P2.png" width="100%" alt="Goal Dashboard Bottom">
 *Latest Screenshot 1/8/25*
 
 

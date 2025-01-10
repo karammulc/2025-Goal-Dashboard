@@ -1,5 +1,5 @@
 # 2025 Goal Dashboard - 5K training
-<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal-Dashboard-Logo.png"  width="50%" >
+<img src="https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/Goal-Dashboard-Logo.png"  width="35%" >
 
 ### 🏃‍♀️**Project still in Progress** 🏃‍♀️
 __________________________________________________________________________

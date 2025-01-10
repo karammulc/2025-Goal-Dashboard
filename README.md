@@ -36,7 +36,7 @@ Note: This documentation covers one set of formulas. An identical set exists wit
 
 
 <img src=https://github.com/karammulc/2025-Goal-Dashboard-5K/blob/main/Images/2025-5K-Goal-Dashboard.png  alt="Daily Log">
-* Last Captured 1/10/25 *
+Last Captured 1/10/25 
 
 ## Dashboard Features
 

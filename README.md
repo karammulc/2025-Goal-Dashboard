@@ -74,5 +74,6 @@ Next steps:
 - Customizable timespan views
 - Dynamic milestone notifications
 - % of weeks being successful : change to not include current week
+- Dynamic text? If there is only one remaining day - "days" alters to day 
 
 
